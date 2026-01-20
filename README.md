@@ -4,6 +4,8 @@ This project presents an implementation, evaluation, and optimization of the **H
 The performance of the standard Harris detector is compared against an optimized version on structured patterns and natural scene images.
 
 ---
+<img width="1500" height="500" alt="image5" src="https://github.com/user-attachments/assets/ebc57ee5-fab8-4edc-a884-72b385cbb594" />
+
 
 ## 📌 Project Overview
 
